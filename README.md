@@ -246,3 +246,6 @@ This repository serves as the official landing page for Hedgewars. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hedgewars today!**
+
+---
+**Last updated:** 2026-09-11 03:45:16 UTC
