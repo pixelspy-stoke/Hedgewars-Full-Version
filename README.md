@@ -248,4 +248,4 @@ This repository serves as the official landing page for Hedgewars. The software 
 **Get the most recent version of Hedgewars today!**
 
 ---
-**Last updated:** 2026-10-21 03:53:27 UTC
+**Last updated:** 2026-10-21 09:13:02 UTC
